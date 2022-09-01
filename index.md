@@ -8,4 +8,4 @@ I am Iñaki Sasiain a student of the Master's programme in Bionformrmatics in th
 
 email: inakisasianca@gmail.com
 
-linkedin: linkedin.com/in/iñaki-sasiain-a38118232
+[linkedin](linkedin.com/in/iñaki-sasiain-a38118232)
