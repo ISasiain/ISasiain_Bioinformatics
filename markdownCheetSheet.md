@@ -55,8 +55,15 @@
 <sup>your text</sup>
 ```
 <sup>your text</sup>
+
 ##### **LINK** 
 ```
 [google](https://www.google.com/)
 ```
 [google](https://www.google.com/)
+
+##### **QUOTING**
+```
+>This is quote
+```
+>This is a quote
