@@ -1,18 +1,44 @@
-HEADINGS
-# This is the larger heading
-##
-###
-####
-#####
-###### This is the smallest heading
+# **Markdown tags**
 
-BOLD **your text**
+##### **HEADINGS**
+```
+# your text
+## your text
+### your text
+#### your text
+##### your text
+###### your text
+```
+# your text
+## your text
+### your text
+#### your text
+##### your text
+###### your text
 
-ITALICS *your text*
+##### **BOLD** 
+```
+**your text**
+```
 
-STRIKETHROUGH ~~your text~~
+##### **ITALICS** 
+```
+*your text*
+```
+**your text**
 
-BOLD AND NESTED ITALICS **this is _your_ text**
+##### **STRIKETHROUGH** 
+```
+~~your text~~
+```
+~~your text~~
+
+##### **BOLD AND NESTED ITALICS** 
+
+```
+**this is _your_ text**
+```
+**this is _your_ text**
 
 ALL BOLD AND ITALICS ***your text***
 
