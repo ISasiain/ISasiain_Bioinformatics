@@ -40,10 +40,23 @@
 ```
 **this is _your_ text**
 
-ALL BOLD AND ITALICS ***your text***
-
-SUBSCRIPT <sub>your text</sub>
-
-SUPERSCRIPT <sup>your text</sup>
-
-LINK [google](https://www.google.com/)
+##### **ALL BOLD AND ITALICS**
+```
+***your text***
+```
+***your text***
+##### **SUBSCRIPT** 
+```
+<sub>your text</sub>
+```
+<sub>your text</sub>
+##### **SUPERSCRIPT** 
+```
+<sup>your text</sup>
+```
+<sup>your text</sup>
+##### **LINK** 
+```
+[google](https://www.google.com/)
+```
+[google](https://www.google.com/)
