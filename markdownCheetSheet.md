@@ -20,12 +20,13 @@
 ```
 **your text**
 ```
+**your text**
 
 ##### **ITALICS** 
 ```
 *your text*
 ```
-**your text**
+*your text*
 
 ##### **STRIKETHROUGH** 
 ```
