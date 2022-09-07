@@ -46,11 +46,13 @@
 ***your text***
 ```
 ***your text***
+
 ##### **SUBSCRIPT** 
 ```
 <sub>your text</sub>
 ```
 <sub>your text</sub>
+
 ##### **SUPERSCRIPT** 
 ```
 <sup>your text</sup>
@@ -69,7 +71,7 @@
 ```
 >This is a quote
 
-##### **UNORDERED LIST***
+##### **UNORDERED LIST**
 ```
 * One
   * One.one
@@ -83,7 +85,7 @@
  * Two
  * Three
  
-##### **ORDERED LIST***
+##### **ORDERED LIST**
 ```
  1. One
  2. Two
@@ -93,8 +95,53 @@
  2. Two
  3. Three
 
-##### **IMAGES***
+##### **ADD IMAGES**
 ```
-![Alt Text](url)
+![Alt Text](local_file_in_Github.jpg)
 ```
-![Alt Text](https://images.app.goo.gl/iuRT4DtJeQPM7FbY6)
+![Alt Text](PT_vitoriagasteiz1024.jpg)
+
+##### **HORIZONTAL LINE**
+```
+---
+```
+---
+
+##### **REFERENCE LINKS**
+```
+[Vitoria-Gasteiz][1] is the capital city of the [Basque Country][2].
+
+[1]: https://en.wikipedia.org/wiki/Vitoria-Gasteiz "Wikipedia: Vitoria-Gasteiz"
+[2]: https://en.wikipedia.org/wiki/Basque_Country_(autonomous_community) "Wikipedia: Basque Country"
+```
+[Vitoria-Gasteiz][1] is the capital city of the [Basque Country][2].
+
+[1]: https://en.wikipedia.org/wiki/Vitoria-Gasteiz "Wikipedia: Vitoria-Gasteiz"
+[2]: https://en.wikipedia.org/wiki/Basque_Country_(autonomous_community) "Wikipedia: Basque Country"
+
+##### **TASK LIST**
+```
+- [x] This is my first completed task
+- [x] This is my second completed task
+- [ ] This is my firt uncompleted task
+- [x] This is my third completed task
+```
+- [x] This is my first completed task
+- [x] This is my second completed task
+- [ ] This is my first uncompleted task
+- [x] This is my third completed task
+
+##### **TABLES**
+```
+|**Country**|**Capital city**|
+|-|-|
+|Spain|Madrid|
+|France|Paris|
+|Italy|Rome|
+```
+
+|**Country**|**Capital city**|
+|-|-|
+|Spain|Madrid|
+|France|Paris|
+|Italy|Rome|
